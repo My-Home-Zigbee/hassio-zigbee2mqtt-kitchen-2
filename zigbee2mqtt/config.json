@@ -1,8 +1,8 @@
 {
-  "name": "Zigbee2MQTT",
+  "name": "Zigbee2MQTT Кухня 2",
   "version": "2.6.1-1",
   "slug": "zigbee2mqtt",
-  "description": "Use your ZigBee devices without the vendor's bridge or gateway",
+  "description": "Use your Kitchen-2 ZigBee devices without the vendor's bridge or gateway",
   "breaking_versions": [
     "2.0.0-1"
   ],
